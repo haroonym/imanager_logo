@@ -1,9 +1,6 @@
 <template>
   <div>
-    <p class="text-h3 text-center mt-4">
-      <v-icon class="text-h3 red--text">mdi-heart</v-icon> IManager
-      <v-icon class="text-h3 red--text">mdi-heart</v-icon>
-    </p>
+    <p class="text-center mt-2 .text-sm-body-2" >iManager</p>
   </div>
 </template>
 
