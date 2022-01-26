@@ -2,8 +2,8 @@ module.exports = {
   transpileDependencies: ['vuetify'],
   pwa: {
     manifestOptions: {
-      name: 'IManager',
-      short_name: 'PWA Project',
+      name: 'PWA Project',
+      short_name: 'IManager',
       theme_color: '#F1333F',
       background_color: '#353434',
       icons: [
