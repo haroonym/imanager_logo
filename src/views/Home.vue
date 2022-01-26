@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class=" text-h3 text-center mt-2">iManager</p>
+    <p class=" text-h5 text-center mt-2">Yuhuuu Geschafft!!!</p>
   </div>
 </template>
 
