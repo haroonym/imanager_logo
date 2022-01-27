@@ -13,11 +13,25 @@
 </template>
 
 <script>
+// import axios from 'axios';
 export default {
   name: 'App',
-
+  // serverAddress: process.env.VUE_APP_SERVER,
   data: () => ({
     //
   }),
+  methods: {
+    // async getItems() {
+    //   try {
+    //     const { data } = await axios({
+    //       url: this.serverAddress + '/items',
+    //       method: 'GET',
+    //     });
+    //     this.items = data;
+    //   } catch (error) {
+    //     console.error(error);
+    //   }
+    // },
+  },
 };
 </script>

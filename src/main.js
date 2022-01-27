@@ -4,7 +4,9 @@ import router from './router'
 import vuetify from './plugins/vuetify'
 import './registerServiceWorker'
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
+
+export const networkAddress = 'http://127.0.0.1:3000';
 
 new Vue({
   router,
